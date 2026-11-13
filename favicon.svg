@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <rect width="80" height="80" rx="18" fill="#182a38"/>
+  <path d="M15 63H65" stroke="#c4a276" stroke-width="2" opacity=".8"/>
+  <text x="40" y="54" fill="#f1e6cf" font-family="serif" font-size="47" font-weight="bold" text-anchor="middle">ع</text>
+</svg>
